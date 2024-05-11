@@ -1,0 +1,13 @@
+### These are the presentation slides of various event I spoke at:
+
+| Topic                                                          | Event/Program                                                             | Presentation                                                                             |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: |
+| Quantum Odyssey                                                | Business Hackathon 2022 at the National Institute of Technology Hamirpur  | [Slides](/Business_Hackathon_NITH_2022_QuantumOdyssey.pdf)                               |
+| Introduction to Quantum Computing (Workshop)                   | Nimbus 2023 (Technical Fest of National Institute of Technology Hamirpur) | [Slides](/Team_Abraxas_Workshop_2023__Introduction_To_Quantum_Computing.pdf)             |
+| QCrop                                                          | 11th International NYUAD Hackathon for Social Good (2023)                 | [Slides](/NYUAD_Hackathon_2023_QCROP.pdf)                                                |
+| Logistics Optimization using Deep Learning Surrogate Solvers   | QIntern 2023 (QWorld)                                                     | [Slides](/QIntern_2023_Logistics_Optimization_using_Deep_Learning_Surrogate_Solvers.pdf) |
+| Quantum Breakout Game                                          | Data Science Summit 2023                                                  | [Slides](/Data_Science_Summit_2023_Quantum_Breakout.pdf)                                 |
+| QuantaVania Game                                               | Data Science Summit 2023                                                  | [Slides](/Data_Science_Summit_2023_QuantaVania.pdf)                                      |
+| Logistics Optimization using Deep Learning Surrogate Solvers   | Data Science Summit 2023                                                  | [Slides](/Data_Science_Summit_2023_QROSS.pdf)                                            |
+| MNIST Digit Classification using Hybrid Quantum Neural Network | QCourse 511-1 2023 (Qworld)                                               | [Slides](/QCourse511-1_MNIST_Digit_Classification_using_Hybrid_QNN.pdf)                  |
+| Power Grid Optimization usng Quantum COmputing                 | TCS Quantum Challenge 2023                                                | [Slides](/TCS_Quantum_Challenge_Power_Grid_Optimization.pdf)                             |
