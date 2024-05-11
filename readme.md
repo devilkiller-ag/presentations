@@ -1,4 +1,4 @@
-### These are the presentation slides of various event I spoke at:
+### These are the presentation slides/proposals of various events/programs I spoke/submitted at:
 
 | Topic                                                          | Event/Program                                                                 | Presentation                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: |
@@ -11,4 +11,4 @@
 | Logistics Optimization using Deep Learning Surrogate Solvers   | Data Science Summit 2023                                                      | [Slides](/Data_Science_Summit_2023_QROSS.pdf)                                            |
 | MNIST Digit Classification using Hybrid Quantum Neural Network | QCourse 511-1 2023 (Qworld)                                                   | [Slides](/QCourse511-1_MNIST_Digit_Classification_using_Hybrid_QNN.pdf)                  |
 | Power Grid Optimization using Quantum Computing                | TCS Quantum Challenge 2023                                                    | [Slides](/TCS_Quantum_Challenge_Power_Grid_Optimization.pdf)                             |
-| AsyncAPI Website UI Kit Development (Project Proposal)         | Google Summer of Code 2024 (Async API Initiative)                             | [Slides](/AsyncAPI_UI_Kit_Develpment.pdf)                                                |
+| AsyncAPI Website UI Kit Development (Project Proposal)         | Google Summer of Code 2024 (Async API Initiative)                             | [Project Proposal](/AsyncAPI_UI_Kit_Develpment.pdf)                                      |
